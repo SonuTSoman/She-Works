@@ -1,0 +1,151 @@
+seeker_id,job_id,skills,skills_required,experience_years,experience_required,education,education_required,seeker_city,job_city,work_type_preference,work_type,mobility_constraint,digital_literacy,phone_access,preferred_language,income_expectation_monthly_inr,salary_offered_monthly_inr,skills_overlap_jaccard,experience_diff_abs,education_match,location_match,work_type_match_score,salary_match_ratio,accessibility_score,label
+C074,J074,"sewing, embroidery",embroidery,1,0,10th Pass,8th Pass,Mumbai,Delhi,Remote,Remote,No,Medium,Yes,English,10500,11798,0.5,1,1,0,1.0,1.1236190476190475,1.5,1
+C019,J019,"tailoring, pattern cutting","pattern cutting, tailoring",1,1,8th Pass,8th Pass,Kolkata,Rural Area A,On-site,On-site,No,Medium,Yes,Hindi,9500,11686,1.0,0,1,0,1.0,1.2301052631578948,1.5,1
+C119,J119,"housekeeping, laundry","childcare, teaching",0,3,10th Pass,Diploma,Delhi,Kolkata,Remote,On-site,Yes,Low,No,English,15000,10000,0.0,3,0,0,0.0,0.6666666666666666,-1.0,0
+C079,J079,"data entry, basic maths","phone handling, digital payments",2,3,10th Pass,8th Pass,Mumbai,Kolkata,Remote,On-site,Yes,Low,No,English,15000,10000,0.0,1,1,0,0.0,0.6666666666666666,-1.0,0
+C077,J077,"data entry, basic maths","housekeeping, laundry",0,5,8th Pass,8th Pass,Kolkata,Kolkata,Remote,Hybrid,Yes,Low,No,Hindi,25000,15000,0.0,5,1,1,0.5,0.6,-1.0,0
+C032,J032,"poultry care, farming",farming,0,0,10th Pass,8th Pass,Mumbai,Kolkata,On-site,On-site,No,High,Yes,Hindi,10000,12943,0.5,0,1,0,1.0,1.2943,2.0,1
+C065,J065,"cooking, cleaning","cleaning, cooking",1,0,10th Pass,10th Pass,Delhi,Rural Area A,Hybrid,Hybrid,No,High,Yes,English,10500,13280,1.0,1,1,0,1.0,1.2647619047619048,2.0,1
+C142,J142,"cooking, cleaning","poultry care, farming",3,5,8th Pass,Diploma,Semi-Urban Area B,Kolkata,Hybrid,On-site,Yes,Low,No,Hindi,15000,10000,0.0,2,0,0,0.5,0.6666666666666666,-1.0,0
+C069,J069,"cooking, cleaning","cleaning, cooking",2,2,Diploma,8th Pass,Semi-Urban Area B,Delhi,Remote,Remote,No,High,Yes,Tamil,12000,14715,1.0,0,1,0,1.0,1.22625,2.0,1
+C083,J083,"phone handling, digital payments","cooking, cleaning",1,3,10th Pass,8th Pass,Semi-Urban Area B,Rural Area A,Remote,Hybrid,Yes,Low,No,Tamil,25000,15000,0.0,2,1,0,0.5,0.6,-1.0,0
+C111,J111,"poultry care, farming","tailoring, pattern cutting",0,5,None,Diploma,Mumbai,Mumbai,Hybrid,On-site,Yes,Low,No,Tamil,15000,10000,0.0,5,0,1,0.5,0.6666666666666666,-1.0,0
+C013,J013,"poultry care, farming","poultry care, farming",3,2,Diploma,10th Pass,Rural Area A,Semi-Urban Area B,Remote,Remote,No,High,Yes,English,12500,15342,1.0,1,1,0,1.0,1.22736,2.0,1
+C037,J037,"childcare, teaching",childcare,3,3,Diploma,None,Rural Area A,Delhi,On-site,On-site,No,Medium,Yes,English,12500,14641,0.5,0,1,0,1.0,1.17128,1.5,1
+C010,J010,"cooking, cleaning","cleaning, cooking",3,2,Diploma,None,Mumbai,Semi-Urban Area B,On-site,On-site,No,High,Yes,Hindi,12500,15453,1.0,1,1,0,1.0,1.23624,2.0,1
+C020,J020,"tailoring, pattern cutting",tailoring,0,0,None,None,Delhi,Rural Area A,Hybrid,Hybrid,No,Medium,Yes,English,8000,10765,0.5,0,1,0,1.0,1.345625,1.5,1
+C057,J057,"sewing, embroidery",sewing,2,2,None,None,Mumbai,Mumbai,Hybrid,Hybrid,No,High,Yes,English,9000,11565,0.5,0,1,1,1.0,1.285,2.0,1
+C105,J105,"accounting basics, ms office","housekeeping, laundry",0,4,10th Pass,10th Pass,Rural Area A,Kolkata,On-site,Remote,Yes,Low,No,Tamil,15000,10000,0.0,4,1,0,0.0,0.6666666666666666,-1.0,0
+C070,J070,"phone handling, digital payments","digital payments, phone handling",2,2,10th Pass,10th Pass,Delhi,Rural Area A,Hybrid,Hybrid,No,Medium,Yes,Telugu,11000,12784,1.0,0,1,0,1.0,1.1621818181818182,1.5,1
+C056,J056,"poultry care, farming","farming, poultry care",2,2,10th Pass,None,Delhi,Delhi,Remote,Remote,No,Medium,Yes,Hindi,11000,12233,1.0,0,1,1,1.0,1.112090909090909,1.5,1
+C133,J133,"housekeeping, laundry","phone handling, digital payments",1,3,8th Pass,Diploma,Delhi,Rural Area A,On-site,Hybrid,Yes,Low,No,Tamil,15000,10000,0.0,2,0,0,0.5,0.6666666666666666,-1.0,0
+C030,J030,"housekeeping, laundry","laundry, housekeeping",3,2,Diploma,10th Pass,Rural Area A,Rural Area A,Hybrid,Hybrid,No,High,Yes,Telugu,12500,15227,1.0,1,1,1,1.0,1.21816,2.0,1
+C128,J128,"childcare, teaching","cooking, cleaning",0,4,10th Pass,Diploma,Rural Area A,Delhi,Hybrid,Hybrid,Yes,Low,No,Tamil,25000,15000,0.0,4,0,0,1.0,0.6,-1.0,0
+C027,J027,"poultry care, farming","poultry care, farming",1,1,10th Pass,10th Pass,Mumbai,Semi-Urban Area B,Remote,Remote,No,High,Yes,English,10500,13097,1.0,0,1,0,1.0,1.2473333333333334,2.0,1
+C129,J129,"sewing, embroidery","housekeeping, laundry",2,4,None,Diploma,Rural Area A,Mumbai,Remote,On-site,Yes,Low,No,Telugu,15000,10000,0.0,2,0,0,0.0,0.6666666666666666,-1.0,0
+C132,J132,"poultry care, farming","sewing, embroidery",1,3,8th Pass,Diploma,Delhi,Delhi,On-site,Remote,Yes,Low,No,Tamil,15000,10000,0.0,2,0,1,0.0,0.6666666666666666,-1.0,0
+C146,J146,"childcare, teaching","phone handling, digital payments",0,2,None,8th Pass,Semi-Urban Area B,Mumbai,Remote,Hybrid,Yes,Low,No,Tamil,25000,15000,0.0,2,0,0,0.5,0.6,-1.0,0
+C109,J109,"childcare, teaching","cooking, cleaning",2,3,8th Pass,10th Pass,Mumbai,Mumbai,Hybrid,Remote,Yes,Low,No,Telugu,25000,15000,0.0,1,0,1,0.5,0.6,-1.0,0
+C144,J144,"cooking, cleaning","accounting basics, ms office",1,3,None,Diploma,Kolkata,Rural Area A,Remote,Hybrid,Yes,Low,No,Telugu,15000,10000,0.0,2,0,0,0.5,0.6666666666666666,-1.0,0
+C046,J046,"cooking, cleaning",cleaning,3,2,None,None,Rural Area A,Mumbai,On-site,On-site,No,High,Yes,Hindi,9500,12475,0.5,1,1,0,1.0,1.313157894736842,2.0,1
+C031,J031,"childcare, teaching","childcare, teaching",4,3,Diploma,10th Pass,Delhi,Mumbai,Remote,Remote,No,Medium,Yes,English,13000,15241,1.0,1,1,0,1.0,1.1723846153846154,1.5,1
+C023,J023,"phone handling, digital payments","phone handling, digital payments",2,2,Diploma,10th Pass,Kolkata,Rural Area A,Hybrid,Hybrid,No,Medium,Yes,Hindi,12000,13212,1.0,0,1,0,1.0,1.101,1.5,1
+C016,J016,"housekeeping, laundry","housekeeping, laundry",1,0,Diploma,10th Pass,Semi-Urban Area B,Mumbai,On-site,On-site,No,Medium,Yes,Tamil,11500,13009,1.0,1,1,0,1.0,1.1312173913043477,1.5,1
+C066,J066,"accounting basics, ms office","ms office, accounting basics",0,0,Diploma,8th Pass,Delhi,Delhi,On-site,On-site,No,High,Yes,Hindi,11000,13899,1.0,0,1,1,1.0,1.2635454545454545,2.0,1
+C012,J012,"poultry care, farming",poultry care,1,1,Diploma,None,Semi-Urban Area B,Delhi,On-site,On-site,No,Medium,Yes,English,11500,14057,0.5,0,1,0,1.0,1.2223478260869565,1.5,1
+C043,J043,"accounting basics, ms office",ms office,0,0,Diploma,10th Pass,Semi-Urban Area B,Rural Area A,On-site,On-site,No,High,Yes,Telugu,11000,13775,0.5,0,1,0,1.0,1.2522727272727272,2.0,1
+C147,J147,"sewing, embroidery","tailoring, pattern cutting",2,4,None,10th Pass,Rural Area A,Rural Area A,Remote,Remote,Yes,Low,No,English,15000,10000,0.0,2,0,1,1.0,0.6666666666666666,-1.0,0
+C052,J052,"sewing, embroidery",embroidery,2,1,10th Pass,10th Pass,Delhi,Mumbai,Remote,Remote,No,High,Yes,Telugu,11000,13359,0.5,1,1,0,1.0,1.2144545454545455,2.0,1
+C028,J028,"childcare, teaching",teaching,0,0,Diploma,10th Pass,Kolkata,Semi-Urban Area B,Remote,Remote,No,Medium,Yes,Hindi,11000,13642,0.5,0,1,0,1.0,1.2401818181818183,1.5,1
+C005,J005,"sewing, embroidery",embroidery,0,0,Diploma,None,Semi-Urban Area B,Kolkata,Remote,Remote,No,High,Yes,Telugu,11000,12928,0.5,0,1,0,1.0,1.1752727272727272,2.0,1
+C033,J033,"poultry care, farming","farming, poultry care",4,3,10th Pass,10th Pass,Semi-Urban Area B,Mumbai,On-site,On-site,No,High,Yes,Telugu,12000,13861,1.0,1,1,0,1.0,1.1550833333333332,2.0,1
+C143,J143,"tailoring, pattern cutting","tailoring, pattern cutting",1,4,10th Pass,Diploma,Delhi,Mumbai,On-site,On-site,Yes,Low,No,Hindi,25000,15000,1.0,3,0,0,1.0,0.6,-1.0,0
+C086,J086,"poultry care, farming","sewing, embroidery",0,4,8th Pass,10th Pass,Kolkata,Mumbai,On-site,Hybrid,Yes,Low,No,Telugu,15000,10000,0.0,4,0,0,0.5,0.6666666666666666,-1.0,0
+C087,J087,"sewing, embroidery","poultry care, farming",1,4,8th Pass,8th Pass,Mumbai,Rural Area A,Hybrid,Hybrid,Yes,Low,No,Hindi,15000,10000,0.0,3,1,0,1.0,0.6666666666666666,-1.0,0
+C017,J017,"childcare, teaching","childcare, teaching",3,3,Diploma,None,Mumbai,Rural Area A,Hybrid,Hybrid,No,Medium,Yes,Hindi,12500,13700,1.0,0,1,0,1.0,1.096,1.5,1
+C011,J011,"poultry care, farming",poultry care,2,2,10th Pass,10th Pass,Rural Area A,Rural Area A,Hybrid,Hybrid,No,High,Yes,Telugu,11000,12663,0.5,0,1,1,1.0,1.151181818181818,2.0,1
+C082,J082,"cooking, cleaning","housekeeping, laundry",1,2,None,Diploma,Kolkata,Mumbai,Remote,Hybrid,Yes,Low,No,Tamil,15000,10000,0.0,1,0,0,0.5,0.6666666666666666,-1.0,0
+C134,J134,"childcare, teaching","accounting basics, ms office",2,4,8th Pass,Diploma,Mumbai,Delhi,Remote,Remote,Yes,Low,No,English,15000,10000,0.0,2,0,0,1.0,0.6666666666666666,-1.0,0
+C138,J138,"housekeeping, laundry","phone handling, digital payments",0,4,None,8th Pass,Mumbai,Rural Area A,Hybrid,Remote,Yes,Low,No,Telugu,15000,10000,0.0,4,0,0,0.5,0.6666666666666666,-1.0,0
+C076,J076,"sewing, embroidery","tailoring, pattern cutting",1,4,8th Pass,Diploma,Kolkata,Delhi,Hybrid,Remote,Yes,Low,No,Telugu,15000,10000,0.0,3,0,0,0.5,0.6666666666666666,-1.0,0
+C110,J110,"phone handling, digital payments","childcare, teaching",0,5,8th Pass,Diploma,Kolkata,Mumbai,Hybrid,On-site,Yes,Low,No,Hindi,15000,10000,0.0,5,0,0,0.5,0.6666666666666666,-1.0,0
+C097,J097,"cooking, cleaning","housekeeping, laundry",3,4,8th Pass,Diploma,Mumbai,Mumbai,Remote,On-site,Yes,Low,No,English,15000,10000,0.0,1,0,1,0.0,0.6666666666666666,-1.0,0
+C106,J106,"housekeeping, laundry","housekeeping, laundry",0,4,None,Diploma,Kolkata,Rural Area A,Hybrid,Remote,Yes,Low,No,Tamil,15000,10000,1.0,4,0,0,0.5,0.6666666666666666,-1.0,0
+C067,J067,"sewing, embroidery",sewing,2,2,Diploma,10th Pass,Delhi,Rural Area A,On-site,On-site,No,Medium,Yes,English,12000,13460,0.5,0,1,0,1.0,1.1216666666666666,1.5,1
+C001,J001,"cooking, cleaning",cleaning,1,1,None,None,Mumbai,Delhi,Hybrid,Hybrid,No,Medium,Yes,Hindi,8500,11016,0.5,0,1,0,1.0,1.296,1.5,1
+C123,J123,"tailoring, pattern cutting","phone handling, digital payments",1,2,8th Pass,8th Pass,Delhi,Rural Area A,Remote,On-site,Yes,Low,No,Telugu,25000,15000,0.0,1,1,0,0.0,0.6,-1.0,0
+C068,J068,"tailoring, pattern cutting","pattern cutting, tailoring",4,3,Diploma,None,Semi-Urban Area B,Mumbai,Hybrid,Hybrid,No,High,Yes,English,13000,14296,1.0,1,1,0,1.0,1.0996923076923077,2.0,1
+C029,J029,"housekeeping, laundry",laundry,1,1,10th Pass,8th Pass,Semi-Urban Area B,Rural Area A,Remote,Remote,No,Medium,Yes,English,10500,13180,0.5,0,1,0,1.0,1.2552380952380953,1.5,1
+C041,J041,"housekeeping, laundry",laundry,3,3,10th Pass,8th Pass,Mumbai,Mumbai,Remote,Remote,No,High,Yes,English,11500,14247,0.5,0,1,1,1.0,1.2388695652173913,2.0,1
+C045,J045,"phone handling, digital payments",phone handling,0,0,8th Pass,None,Semi-Urban Area B,Semi-Urban Area B,On-site,On-site,No,Medium,Yes,Tamil,9000,11272,0.5,0,1,1,1.0,1.2524444444444445,1.5,1
+C061,J061,"cooking, cleaning",cooking,3,2,8th Pass,8th Pass,Delhi,Kolkata,Remote,Remote,No,High,Yes,Tamil,10500,12910,0.5,1,1,0,1.0,1.2295238095238095,2.0,1
+C124,J124,"data entry, basic maths","sewing, embroidery",0,4,None,Diploma,Kolkata,Delhi,On-site,On-site,Yes,Low,No,English,15000,10000,0.0,4,0,0,1.0,0.6666666666666666,-1.0,0
+C025,J025,"sewing, embroidery",embroidery,2,2,10th Pass,None,Semi-Urban Area B,Delhi,On-site,On-site,No,High,Yes,Tamil,11000,13304,0.5,0,1,0,1.0,1.2094545454545456,2.0,1
+C026,J026,"accounting basics, ms office",accounting basics,0,0,10th Pass,10th Pass,Delhi,Semi-Urban Area B,Remote,Remote,No,Medium,Yes,Hindi,10000,12192,0.5,0,1,0,1.0,1.2192,1.5,1
+C024,J024,"accounting basics, ms office",ms office,2,2,Diploma,10th Pass,Mumbai,Delhi,On-site,On-site,No,High,Yes,Telugu,12000,14407,0.5,0,1,0,1.0,1.2005833333333333,2.0,1
+C095,J095,"housekeeping, laundry","phone handling, digital payments",3,5,10th Pass,10th Pass,Kolkata,Kolkata,Remote,Remote,Yes,Low,No,English,15000,10000,0.0,2,1,1,1.0,0.6666666666666666,-1.0,0
+C040,J040,"housekeeping, laundry",housekeeping,1,0,10th Pass,8th Pass,Rural Area A,Semi-Urban Area B,Hybrid,Hybrid,No,High,Yes,Tamil,10500,12454,0.5,1,1,0,1.0,1.186095238095238,2.0,1
+C096,J096,"tailoring, pattern cutting","phone handling, digital payments",0,2,8th Pass,8th Pass,Rural Area A,Mumbai,On-site,Hybrid,Yes,Low,No,Telugu,15000,10000,0.0,2,1,0,0.5,0.6666666666666666,-1.0,0
+C118,J118,"childcare, teaching","cooking, cleaning",0,4,10th Pass,Diploma,Kolkata,Mumbai,On-site,Hybrid,Yes,Low,No,English,25000,15000,0.0,4,0,0,0.5,0.6,-1.0,0
+C048,J048,"accounting basics, ms office","ms office, accounting basics",2,2,10th Pass,8th Pass,Delhi,Semi-Urban Area B,On-site,On-site,No,High,Yes,Tamil,11000,12887,1.0,0,1,0,1.0,1.1715454545454544,2.0,1
+C098,J098,"childcare, teaching","tailoring, pattern cutting",0,3,None,Diploma,Semi-Urban Area B,Delhi,Remote,Hybrid,Yes,Low,No,Hindi,15000,10000,0.0,3,0,0,0.5,0.6666666666666666,-1.0,0
+C114,J114,"phone handling, digital payments","phone handling, digital payments",3,4,8th Pass,10th Pass,Kolkata,Rural Area A,On-site,Hybrid,Yes,Low,No,Telugu,25000,15000,1.0,1,0,0,0.5,0.6,-1.0,0
+C034,J034,"housekeeping, laundry",laundry,2,2,Diploma,8th Pass,Delhi,Delhi,Hybrid,Hybrid,No,High,Yes,Tamil,12000,14340,0.5,0,1,1,1.0,1.195,2.0,1
+C139,J139,"poultry care, farming","tailoring, pattern cutting",2,3,10th Pass,10th Pass,Semi-Urban Area B,Rural Area A,On-site,On-site,Yes,Low,No,Tamil,15000,10000,0.0,1,1,0,1.0,0.6666666666666666,-1.0,0
+C102,J102,"housekeeping, laundry","tailoring, pattern cutting",3,5,None,10th Pass,Delhi,Rural Area A,On-site,Remote,Yes,Low,No,Telugu,25000,15000,0.0,2,0,0,0.0,0.6,-1.0,0
+C063,J063,"poultry care, farming",poultry care,4,3,8th Pass,8th Pass,Rural Area A,Delhi,Hybrid,Hybrid,No,High,Yes,Telugu,11000,12892,0.5,1,1,0,1.0,1.172,2.0,1
+C085,J085,"housekeeping, laundry","tailoring, pattern cutting",0,4,10th Pass,Diploma,Delhi,Mumbai,Hybrid,On-site,Yes,Low,No,Tamil,15000,10000,0.0,4,0,0,0.5,0.6666666666666666,-1.0,0
+C149,J149,"childcare, teaching","phone handling, digital payments",1,2,8th Pass,8th Pass,Semi-Urban Area B,Rural Area A,Remote,On-site,Yes,Low,No,Hindi,15000,10000,0.0,1,1,0,0.0,0.6666666666666666,-1.0,0
+C054,J054,"data entry, basic maths",basic maths,3,2,8th Pass,None,Semi-Urban Area B,Kolkata,Remote,Remote,No,High,Yes,Hindi,10500,11965,0.5,1,1,0,1.0,1.1395238095238096,2.0,1
+C006,J006,"data entry, basic maths","data entry, basic maths",1,1,10th Pass,8th Pass,Kolkata,Rural Area A,Remote,Remote,No,Medium,Yes,English,10500,13395,1.0,0,1,0,1.0,1.2757142857142858,1.5,1
+C094,J094,"tailoring, pattern cutting","accounting basics, ms office",0,5,None,Diploma,Delhi,Delhi,Hybrid,On-site,Yes,Low,No,English,25000,15000,0.0,5,0,1,0.5,0.6,-1.0,0
+C112,J112,"tailoring, pattern cutting","accounting basics, ms office",0,2,10th Pass,Diploma,Mumbai,Semi-Urban Area B,Hybrid,Remote,Yes,Low,No,Hindi,15000,10000,0.0,2,0,0,0.5,0.6666666666666666,-1.0,0
+C050,J050,"phone handling, digital payments",digital payments,2,2,8th Pass,8th Pass,Kolkata,Kolkata,Remote,Remote,No,High,Yes,Telugu,10000,12633,0.5,0,1,1,1.0,1.2633,2.0,1
+C036,J036,"sewing, embroidery",embroidery,1,0,Diploma,8th Pass,Delhi,Delhi,Hybrid,Hybrid,No,High,Yes,English,11500,12898,0.5,1,1,1,1.0,1.1215652173913044,2.0,1
+C081,J081,"poultry care, farming","childcare, teaching",2,4,8th Pass,8th Pass,Delhi,Mumbai,On-site,Hybrid,Yes,Low,No,Telugu,15000,10000,0.0,2,1,0,0.5,0.6666666666666666,-1.0,0
+C078,J078,"housekeeping, laundry","poultry care, farming",0,2,10th Pass,Diploma,Mumbai,Kolkata,Remote,On-site,Yes,Low,No,English,15000,10000,0.0,2,0,0,0.0,0.6666666666666666,-1.0,0
+C035,J035,"data entry, basic maths","data entry, basic maths",3,2,8th Pass,None,Semi-Urban Area B,Semi-Urban Area B,Hybrid,Hybrid,No,Medium,Yes,Hindi,10500,12135,1.0,1,1,1,1.0,1.1557142857142857,1.5,1
+C115,J115,"cooking, cleaning","accounting basics, ms office",2,5,10th Pass,10th Pass,Rural Area A,Mumbai,On-site,Remote,Yes,Low,No,English,25000,15000,0.0,3,1,0,0.0,0.6,-1.0,0
+C008,J008,"poultry care, farming",poultry care,3,2,Diploma,10th Pass,Mumbai,Delhi,Remote,Remote,No,Medium,Yes,Hindi,12500,13949,0.5,1,1,0,1.0,1.11592,1.5,1
+C044,J044,"housekeeping, laundry","housekeeping, laundry",3,2,10th Pass,8th Pass,Delhi,Rural Area A,Remote,Remote,No,Medium,Yes,Hindi,11500,13016,1.0,1,1,0,1.0,1.1318260869565218,1.5,1
+C071,J071,"tailoring, pattern cutting","pattern cutting, tailoring",3,3,10th Pass,None,Rural Area A,Mumbai,On-site,On-site,No,High,Yes,Tamil,11500,14290,1.0,0,1,0,1.0,1.242608695652174,2.0,1
+C099,J099,"poultry care, farming","sewing, embroidery",1,3,8th Pass,Diploma,Semi-Urban Area B,Mumbai,On-site,On-site,Yes,Low,No,Tamil,15000,10000,0.0,2,0,0,1.0,0.6666666666666666,-1.0,0
+C121,J121,"poultry care, farming","housekeeping, laundry",1,5,10th Pass,8th Pass,Delhi,Kolkata,On-site,Hybrid,Yes,Low,No,Hindi,15000,10000,0.0,4,1,0,0.5,0.6666666666666666,-1.0,0
+C084,J084,"poultry care, farming","housekeeping, laundry",0,2,8th Pass,Diploma,Semi-Urban Area B,Mumbai,On-site,On-site,Yes,Low,No,English,15000,10000,0.0,2,0,0,1.0,0.6666666666666666,-1.0,0
+C135,J135,"tailoring, pattern cutting","phone handling, digital payments",0,5,8th Pass,Diploma,Rural Area A,Rural Area A,Remote,Remote,Yes,Low,No,Tamil,25000,15000,0.0,5,0,1,1.0,0.6,-1.0,0
+C136,J136,"phone handling, digital payments","accounting basics, ms office",0,3,10th Pass,8th Pass,Rural Area A,Semi-Urban Area B,On-site,On-site,Yes,Low,No,Telugu,15000,10000,0.0,3,1,0,1.0,0.6666666666666666,-1.0,0
+C090,J090,"phone handling, digital payments","childcare, teaching",0,4,8th Pass,8th Pass,Mumbai,Rural Area A,Hybrid,Remote,Yes,Low,No,Hindi,15000,10000,0.0,4,1,0,0.5,0.6666666666666666,-1.0,0
+C009,J009,"sewing, embroidery",sewing,2,1,10th Pass,10th Pass,Mumbai,Kolkata,Remote,Remote,No,High,Yes,Hindi,11000,12781,0.5,1,1,0,1.0,1.161909090909091,2.0,1
+C014,J014,"cooking, cleaning","cooking, cleaning",1,1,None,None,Kolkata,Rural Area A,On-site,On-site,No,Medium,Yes,English,8500,9638,1.0,0,1,0,1.0,1.1338823529411766,1.5,1
+C120,J120,"tailoring, pattern cutting","poultry care, farming",1,5,8th Pass,Diploma,Mumbai,Delhi,On-site,Remote,Yes,Low,No,Tamil,15000,10000,0.0,4,0,0,0.0,0.6666666666666666,-1.0,0
+C126,J126,"cooking, cleaning","poultry care, farming",0,3,None,8th Pass,Delhi,Rural Area A,Hybrid,Hybrid,Yes,Low,No,Hindi,15000,10000,0.0,3,0,0,1.0,0.6666666666666666,-1.0,0
+C004,J004,"phone handling, digital payments","phone handling, digital payments",1,0,10th Pass,None,Mumbai,Semi-Urban Area B,Hybrid,Hybrid,No,High,Yes,Hindi,10500,12766,1.0,1,1,0,1.0,1.215809523809524,2.0,1
+C018,J018,"data entry, basic maths",basic maths,4,3,Diploma,None,Rural Area A,Delhi,On-site,On-site,No,High,Yes,Telugu,13000,14337,0.5,1,1,0,1.0,1.1028461538461538,2.0,1
+C039,J039,"data entry, basic maths","basic maths, data entry",2,2,10th Pass,8th Pass,Semi-Urban Area B,Semi-Urban Area B,Remote,Remote,No,Medium,Yes,English,11000,13828,1.0,0,1,1,1.0,1.257090909090909,1.5,1
+C073,J073,"phone handling, digital payments","phone handling, digital payments",2,1,None,None,Delhi,Semi-Urban Area B,Remote,Remote,No,Medium,Yes,Telugu,9000,10201,1.0,1,1,0,1.0,1.1334444444444445,1.5,1
+C137,J137,"phone handling, digital payments","housekeeping, laundry",0,2,8th Pass,Diploma,Mumbai,Semi-Urban Area B,Remote,On-site,Yes,Low,No,Telugu,15000,10000,0.0,2,0,0,0.0,0.6666666666666666,-1.0,0
+C007,J007,"sewing, embroidery","embroidery, sewing",0,0,Diploma,10th Pass,Delhi,Delhi,On-site,On-site,No,High,Yes,English,11000,13342,1.0,0,1,1,1.0,1.212909090909091,2.0,1
+C113,J113,"tailoring, pattern cutting","cooking, cleaning",1,4,10th Pass,Diploma,Delhi,Delhi,On-site,Hybrid,Yes,Low,No,English,15000,10000,0.0,3,0,1,0.5,0.6666666666666666,-1.0,0
+C101,J101,"poultry care, farming","phone handling, digital payments",0,2,None,8th Pass,Rural Area A,Kolkata,On-site,Hybrid,Yes,Low,No,Tamil,25000,15000,0.0,2,0,0,0.5,0.6,-1.0,0
+C003,J003,"sewing, embroidery",embroidery,3,2,8th Pass,None,Delhi,Rural Area A,Remote,Remote,No,Medium,Yes,Telugu,10500,11709,0.5,1,1,0,1.0,1.1151428571428572,1.5,1
+C064,J064,"housekeeping, laundry","laundry, housekeeping",2,1,Diploma,8th Pass,Mumbai,Rural Area A,Remote,Remote,No,High,Yes,Tamil,12000,13590,1.0,1,1,0,1.0,1.1325,2.0,1
+C055,J055,"accounting basics, ms office",ms office,0,0,Diploma,10th Pass,Delhi,Rural Area A,Hybrid,Hybrid,No,Medium,Yes,Hindi,11000,13933,0.5,0,1,0,1.0,1.2666363636363636,1.5,1
+C127,J127,"tailoring, pattern cutting","accounting basics, ms office",0,2,8th Pass,Diploma,Kolkata,Semi-Urban Area B,On-site,Hybrid,Yes,Low,No,Tamil,15000,10000,0.0,2,0,0,0.5,0.6666666666666666,-1.0,0
+C051,J051,"accounting basics, ms office",accounting basics,0,0,Diploma,10th Pass,Delhi,Delhi,Remote,Remote,No,Medium,Yes,Tamil,11000,13137,0.5,0,1,1,1.0,1.1942727272727274,1.5,1
+C116,J116,"phone handling, digital payments","poultry care, farming",1,5,10th Pass,Diploma,Kolkata,Semi-Urban Area B,Hybrid,Remote,Yes,Low,No,Hindi,15000,10000,0.0,4,0,0,0.5,0.6666666666666666,-1.0,0
+C047,J047,"poultry care, farming","farming, poultry care",0,0,10th Pass,None,Mumbai,Rural Area A,Hybrid,Hybrid,No,Medium,Yes,Telugu,10000,12229,1.0,0,1,0,1.0,1.2229,1.5,1
+C140,J140,"childcare, teaching","phone handling, digital payments",1,2,8th Pass,Diploma,Semi-Urban Area B,Kolkata,Remote,On-site,Yes,Low,No,English,15000,10000,0.0,1,0,0,0.0,0.6666666666666666,-1.0,0
+C062,J062,"tailoring, pattern cutting",tailoring,4,3,Diploma,10th Pass,Mumbai,Mumbai,On-site,On-site,No,Medium,Yes,Hindi,13000,14187,0.5,1,1,1,1.0,1.0913076923076923,1.5,1
+C148,J148,"tailoring, pattern cutting","housekeeping, laundry",3,5,8th Pass,8th Pass,Kolkata,Kolkata,On-site,Remote,Yes,Low,No,Tamil,25000,15000,0.0,2,1,1,0.0,0.6,-1.0,0
+C080,J080,"cooking, cleaning","poultry care, farming",0,4,None,8th Pass,Mumbai,Kolkata,Remote,Hybrid,Yes,Low,No,English,15000,10000,0.0,4,0,0,0.5,0.6666666666666666,-1.0,0
+C060,J060,"poultry care, farming","farming, poultry care",2,1,10th Pass,10th Pass,Semi-Urban Area B,Kolkata,Remote,Remote,No,Medium,Yes,English,11000,12235,1.0,1,1,0,1.0,1.1122727272727273,1.5,1
+C092,J092,"sewing, embroidery","accounting basics, ms office",3,5,10th Pass,10th Pass,Rural Area A,Rural Area A,Hybrid,Remote,Yes,Low,No,Telugu,15000,10000,0.0,2,1,1,0.5,0.6666666666666666,-1.0,0
+C042,J042,"tailoring, pattern cutting",pattern cutting,4,3,Diploma,None,Semi-Urban Area B,Delhi,Remote,Remote,No,High,Yes,English,13000,15369,0.5,1,1,0,1.0,1.1822307692307692,2.0,1
+C059,J059,"cooking, cleaning",cooking,1,1,None,None,Kolkata,Rural Area A,Remote,Remote,No,High,Yes,English,8500,10422,0.5,0,1,0,1.0,1.2261176470588235,2.0,1
+C091,J091,"tailoring, pattern cutting","tailoring, pattern cutting",0,4,10th Pass,10th Pass,Mumbai,Kolkata,On-site,Hybrid,Yes,Low,No,Tamil,15000,10000,1.0,4,1,0,0.5,0.6666666666666666,-1.0,0
+C049,J049,"childcare, teaching","teaching, childcare",4,3,8th Pass,8th Pass,Semi-Urban Area B,Delhi,On-site,On-site,No,High,Yes,Tamil,11000,12571,1.0,1,1,0,1.0,1.1428181818181817,2.0,1
+C089,J089,"childcare, teaching","sewing, embroidery",1,4,None,Diploma,Rural Area A,Semi-Urban Area B,On-site,Hybrid,Yes,Low,No,Hindi,15000,10000,0.0,3,0,0,0.5,0.6666666666666666,-1.0,0
+C108,J108,"childcare, teaching","cooking, cleaning",0,2,8th Pass,10th Pass,Kolkata,Semi-Urban Area B,On-site,On-site,Yes,Low,No,English,15000,10000,0.0,2,0,0,1.0,0.6666666666666666,-1.0,0
+C125,J125,"tailoring, pattern cutting","tailoring, pattern cutting",0,2,8th Pass,8th Pass,Mumbai,Mumbai,Hybrid,Hybrid,Yes,Low,No,Tamil,15000,10000,1.0,2,1,1,1.0,0.6666666666666666,-1.0,0
+C022,J022,"phone handling, digital payments",phone handling,3,3,8th Pass,None,Kolkata,Rural Area A,Hybrid,Hybrid,No,Medium,Yes,English,10500,12043,0.5,0,1,0,1.0,1.146952380952381,1.5,1
+C058,J058,"accounting basics, ms office","ms office, accounting basics",3,2,Diploma,8th Pass,Semi-Urban Area B,Semi-Urban Area B,Hybrid,Hybrid,No,Medium,Yes,Telugu,12500,13623,1.0,1,1,1,1.0,1.08984,1.5,1
+C145,J145,"data entry, basic maths","accounting basics, ms office",1,4,8th Pass,Diploma,Mumbai,Semi-Urban Area B,Hybrid,On-site,Yes,Low,No,English,25000,15000,0.0,3,0,0,0.5,0.6,-1.0,0
+C130,J130,"childcare, teaching","sewing, embroidery",2,4,None,Diploma,Semi-Urban Area B,Semi-Urban Area B,Hybrid,Remote,Yes,Low,No,Hindi,15000,10000,0.0,2,0,1,0.5,0.6666666666666666,-1.0,0
+C038,J038,"tailoring, pattern cutting","pattern cutting, tailoring",3,3,Diploma,10th Pass,Kolkata,Mumbai,Remote,Remote,No,Medium,Yes,Tamil,12500,14030,1.0,0,1,0,1.0,1.1224,1.5,1
+C141,J141,"cooking, cleaning","data entry, basic maths",0,3,8th Pass,Diploma,Semi-Urban Area B,Mumbai,Remote,Hybrid,Yes,Low,No,Hindi,15000,10000,0.0,3,0,0,0.5,0.6666666666666666,-1.0,0
+C002,J002,"sewing, embroidery",sewing,1,1,10th Pass,10th Pass,Semi-Urban Area B,Delhi,Hybrid,Hybrid,No,High,Yes,Telugu,10500,12830,0.5,0,1,0,1.0,1.2219047619047618,2.0,1
+C053,J053,"housekeeping, laundry","laundry, housekeeping",3,2,8th Pass,8th Pass,Kolkata,Rural Area A,On-site,On-site,No,Medium,Yes,English,10500,12977,1.0,1,1,0,1.0,1.2359047619047618,1.5,1
+C131,J131,"tailoring, pattern cutting","phone handling, digital payments",1,4,None,8th Pass,Delhi,Mumbai,Remote,Hybrid,Yes,Low,No,Tamil,15000,10000,0.0,3,0,0,0.5,0.6666666666666666,-1.0,0
+C104,J104,"childcare, teaching","poultry care, farming",2,4,None,8th Pass,Semi-Urban Area B,Semi-Urban Area B,Hybrid,Remote,Yes,Low,No,Tamil,15000,10000,0.0,2,0,1,0.5,0.6666666666666666,-1.0,0
+C100,J100,"cooking, cleaning","childcare, teaching",0,2,10th Pass,Diploma,Kolkata,Semi-Urban Area B,Remote,Remote,Yes,Low,No,Telugu,15000,10000,0.0,2,0,0,1.0,0.6666666666666666,-1.0,0
+C117,J117,"housekeeping, laundry","accounting basics, ms office",1,4,8th Pass,10th Pass,Semi-Urban Area B,Semi-Urban Area B,Remote,Remote,Yes,Low,No,English,15000,10000,0.0,3,0,1,1.0,0.6666666666666666,-1.0,0
+C088,J088,"phone handling, digital payments","data entry, basic maths",2,3,None,8th Pass,Semi-Urban Area B,Semi-Urban Area B,On-site,Hybrid,Yes,Low,No,Telugu,25000,15000,0.0,1,0,1,0.5,0.6,-1.0,0
+C075,J075,"childcare, teaching",childcare,3,3,Diploma,8th Pass,Kolkata,Delhi,On-site,On-site,No,High,Yes,Telugu,12500,13975,0.5,0,1,0,1.0,1.118,2.0,1
+C122,J122,"accounting basics, ms office","cooking, cleaning",0,4,8th Pass,8th Pass,Delhi,Rural Area A,Hybrid,On-site,Yes,Low,No,English,15000,10000,0.0,4,1,0,0.5,0.6666666666666666,-1.0,0
+C150,J150,"poultry care, farming","housekeeping, laundry",1,5,8th Pass,8th Pass,Semi-Urban Area B,Semi-Urban Area B,Hybrid,Remote,Yes,Low,No,Tamil,25000,15000,0.0,4,1,1,0.5,0.6,-1.0,0
+C021,J021,"sewing, embroidery",embroidery,3,2,10th Pass,None,Semi-Urban Area B,Kolkata,On-site,On-site,No,High,Yes,Tamil,11500,13043,0.5,1,1,0,1.0,1.1341739130434783,2.0,1
+C072,J072,"sewing, embroidery",embroidery,1,1,10th Pass,8th Pass,Rural Area A,Kolkata,Remote,Remote,No,High,Yes,Tamil,10500,12776,0.5,0,1,0,1.0,1.2167619047619047,2.0,1
+C107,J107,"cooking, cleaning","tailoring, pattern cutting",4,5,10th Pass,10th Pass,Kolkata,Semi-Urban Area B,Remote,Hybrid,Yes,Low,No,Telugu,15000,10000,0.0,1,1,0,0.5,0.6666666666666666,-1.0,0
+C015,J015,"poultry care, farming","poultry care, farming",3,3,10th Pass,8th Pass,Delhi,Kolkata,On-site,On-site,No,Medium,Yes,Tamil,11500,12693,1.0,0,1,0,1.0,1.1037391304347826,1.5,1
+C093,J093,"childcare, teaching","cooking, cleaning",1,3,10th Pass,Diploma,Kolkata,Delhi,Hybrid,Hybrid,Yes,Low,No,Telugu,25000,15000,0.0,2,0,0,1.0,0.6,-1.0,0
+C103,J103,"tailoring, pattern cutting","accounting basics, ms office",0,4,8th Pass,8th Pass,Semi-Urban Area B,Kolkata,On-site,On-site,Yes,Low,No,English,25000,15000,0.0,4,1,0,1.0,0.6,-1.0,0
